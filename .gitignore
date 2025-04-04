@@ -24,7 +24,6 @@ MANIFEST
 # Virtual environment
 venv/
 .env/
-
 # IDE and editor files
 .idea/
 .vscode/
